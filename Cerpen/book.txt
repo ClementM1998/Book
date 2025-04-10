@@ -8,11 +8,19 @@ Huazer tengah mengemas-gemas bilik
 
 [gambar di sebuah bilik yang telah dikemas]
 
-tiba-tiba telefon nya berdering...
+tiba-tiba telefon nya berdering menandakan panggilan masuk...
 
 [gambar telefon yang tengah berdering]
 
 panggilan dari Veron kawan Huzaer
 
 [gambar dengan panggilan yang masuk dari Veron]
+
+Huzaer menjawab panggilan tersebut
+
+[gambar Huzaer tengah menjawab panggilan dari Veron]
+
+Mereka berbual dan bercadang untuk pergi memancing di tembok Sandakan
+
+[gambar perbualan antara Huzaer dan Veron]
 
